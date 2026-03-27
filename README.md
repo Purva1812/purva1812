@@ -22,7 +22,7 @@ I love turning data into insights and building interactive dashboards for better
 
 #### 🔹 Amazon Sales Dashboard
 > Built an interactive Power BI dashboard for sales and revenue insights.  
-[View Project](https://github.com/your-github-Purva1812/Amazon-Sales-Dashboard.)
+[View Project]([https://github.com/your-github-Purva1812/Amazon-Sales-Dashboard.](https://github.com/Purva1812/Amazon-Sales-Dashboard..git))
 
 #### 🔹 Titanic Survival Prediction
 > Data cleaning, EDA, and Machine Learning model to predict survival on Titanic dataset.  
