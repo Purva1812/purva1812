@@ -11,7 +11,6 @@ I turn raw data into actionable insights and create interactive dashboards for r
 - 🏆 Always learning new Python libraries and analytics techniques  
 
 ---
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Purva1812&theme=react-dark)
 
 ### 🛠️ Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
