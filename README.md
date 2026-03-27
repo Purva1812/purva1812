@@ -13,7 +13,7 @@ I turn raw data into actionable insights and create interactive dashboards for r
 ---
 
 ### 🛠️ Skills
-![Python](https://www.google.com/imgres?q=python.gif&imgurl=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2Fv1.Y2lkPTZjMDliOTUycWVudmhmdnc0ODFpODRiMXBhcWV0bjlpaGYzejN5cjVwNmsybzhsNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n%2FKAq5w47R9rmTuvWOWa%2Fgiphy.gif&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fpython-code&docid=WnU-B8g-iUYkCM&tbnid=Oa-loSVpdmTOAM&vet=12ahUKEwjegpbY3cCTAxXMj68BHUINFiYQnPAOegQIGBAB..i&w=480&h=476&hcb=2&ved=2ahUKEwjegpbY3cCTAxXMj68BHUINFiYQnPAOegQIGBAB)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F61?style=for-the-badge)
@@ -27,41 +27,40 @@ I turn raw data into actionable insights and create interactive dashboards for r
 
 #### 🔹 Diwali Dataset Analysis
 > Analyzed Diwali sales and spending patterns using Python and visualization tools.  
-![Diwali Icon]( <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/541b636f-8d37-472f-97b5-9648eb0c2bd3" />)
- 
-[View Project](https://github.com/your-github-username/Diwali-Dataset-Analysis)
+![Diwali Icon](https://img.icons8.com/color/512/000000/diwali.png)
+[View Project](https://github.com/Purva1812/Diwali-Dataset.git)
 
 #### 🔹 E-Commerce Sales Forecast
 > Predicted future sales trends using Machine Learning models and time-series analysis.  
-![Forecast Icon](https://img.icons8.com/color/48/000000/forecast.png)  
-[View Project](https://github.com/your-github-username/E-Commerce-Sales-Forecast)
+![Forecast Icon](https://icon-icons.com/icons2/39986/PNG/512/ecommerce_sales_icon_39986.png)  
+[View Project](https://github.com/Purva1812/Sales-Forcecast-System.git)
 
 #### 🔹 Amazon Sales Dashboard
 > Built an interactive Power BI dashboard to analyze Amazon sales data.  
 ![Amazon Icon](https://img.icons8.com/color/48/000000/amazon.png)  
-[View Project](https://github.com/your-github-username/Amazon-Sales-Dashboard)
+[View Project](https://github.com/Purva1812/Amazon-Sales-Dashboard..git)
 
 #### 🔹 Blinkit Dashboard
 > Developed a dashboard to monitor Blinkit delivery and sales metrics.  
 ![Delivery Icon](https://img.icons8.com/color/48/000000/delivery.png)  
-[View Project](https://github.com/your-github-username/Blinkit-Dashboard)
+[View Project](https://github.com/Purva1812/Blinkit-Dashboard.git)
 
 #### 🔹 Titanic Survival Prediction
 > ML project to predict passenger survival using Python, EDA, and visualization.  
 ![Titanic Icon](https://img.icons8.com/color/48/000000/titanic.png)  
-[View Project](https://github.com/your-github-username/Titanic-Survival-Prediction)
+[View Project](https://github.com/Purva1812/Titanic-Survival-Prediction.git)
 
 #### 🔹 USA Housing Prediction
 > Built regression models to predict housing prices in the USA with Python & ML.  
 ![House Icon](https://img.icons8.com/color/48/000000/real-estate.png)  
-[View Project](https://github.com/your-github-username/USA-Housing-Prediction)
+[View Project](https://github.com/your-github-Purva1812/USA-Housing-Prediction)
 
 ---
 
 ### 📊 GitHub Stats
-![Purva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=react&count_private=true)
+![Purva's GitHub Stats](https://github-readme-stats.vercel.app/api?Purva1812=your-github-Purva1812&show_icons=true&theme=react&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Purva1812=your-github-Purva1812&layout=compact&theme=react)
 
 ---
 
@@ -75,12 +74,12 @@ I turn raw data into actionable insights and create interactive dashboards for r
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purva-naikwadi-btech-mechatronics)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/your-kaggle)
 
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?Purva1812=your-github-Purva1812&theme=radical&no-frame=false&margin-w=4)
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
