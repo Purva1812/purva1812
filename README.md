@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Purva Naikwadi
 
-![Data Science GIF](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)
+![Header](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
 ### 🚀 About Me
 I am a Data Science Engineer skilled in Python, Data Analysis, Data Visualization, Power BI, SQL, Machine Learning, and Deep Learning.  
@@ -13,7 +13,7 @@ I turn raw data into actionable insights and create interactive dashboards for r
 ---
 
 ### 🛠️ Skills
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://www.google.com/imgres?q=python.gif&imgurl=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2Fv1.Y2lkPTZjMDliOTUycWVudmhmdnc0ODFpODRiMXBhcWV0bjlpaGYzejN5cjVwNmsybzhsNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n%2FKAq5w47R9rmTuvWOWa%2Fgiphy.gif&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fpython-code&docid=WnU-B8g-iUYkCM&tbnid=Oa-loSVpdmTOAM&vet=12ahUKEwjegpbY3cCTAxXMj68BHUINFiYQnPAOegQIGBAB..i&w=480&h=476&hcb=2&ved=2ahUKEwjegpbY3cCTAxXMj68BHUINFiYQnPAOegQIGBAB)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F61?style=for-the-badge)
