@@ -56,9 +56,9 @@ I turn raw data into actionable insights and create interactive dashboards for r
 ---
 
 ### 📊 GitHub Stats
-![Purva's GitHub Stats](https://github-readme-stats.vercel.app/api?Purva1812=your-github-Purva1812&show_icons=true&theme=react&count_private=true)
+![Purva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Purva1812&show_icons=true&theme=react&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Purva1812=your-github-Purva1812&layout=compact&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Purva1812&layout=compact&theme=react)
 
 ---
 
@@ -77,10 +77,10 @@ I turn raw data into actionable insights and create interactive dashboards for r
 
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?Purva1812=your-github-Purva1812&theme=radical&no-frame=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Purva1812&theme=radical&no-frame=false&margin-w=4)
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Purva1812&theme=radical)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 
 ---
