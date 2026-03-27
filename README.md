@@ -27,12 +27,10 @@ I turn raw data into actionable insights and create interactive dashboards for r
 
 #### 🔹 Diwali Dataset Analysis
 > Analyzed Diwali sales and spending patterns using Python and visualization tools.  
-![Diwali Icon](<a target="_blank" href="https://icons8.com/icon/YA8SO2cqlZfX/diwali">Diwali</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>)
 [View Project](https://github.com/Purva1812/Diwali-Dataset.git)
 
 #### 🔹 E-Commerce Sales Forecast
 > Predicted future sales trends using Machine Learning models and time-series analysis.  
-![Forecast Icon](https://icon-icons.com/icons2/39986/PNG/512/ecommerce_sales_icon_39986.png)  
 [View Project](https://github.com/Purva1812/Sales-Forcecast-System.git)
 
 #### 🔹 Amazon Sales Dashboard
