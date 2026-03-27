@@ -20,9 +20,9 @@ I love turning data into insights and building interactive dashboards for better
 > Analyzed healthcare datasets to predict drug usage patterns using Machine Learning.  
 [View Project](https://github.com/your-github-Purva1812/Healthcare-Analytics)
 
-#### 🔹 Sales & Revenue Dashboard
+#### 🔹 Amazon Sales Dashboard
 > Built an interactive Power BI dashboard for sales and revenue insights.  
-[View Project](https://github.com/your-github-Purva1812/Sales-Dashboard)
+[View Project](https://github.com/your-github-Purva1812/Amazon-Sales-Dashboard.)
 
 #### 🔹 Titanic Survival Prediction
 > Data cleaning, EDA, and Machine Learning model to predict survival on Titanic dataset.  
