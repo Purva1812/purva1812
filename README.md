@@ -47,7 +47,6 @@ I turn raw data into actionable insights and create interactive dashboards for r
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq%20API-FF4B00?style=for-the-badge&logoColor=white)
 
 **Tools**
 
@@ -104,8 +103,9 @@ I turn raw data into actionable insights and create interactive dashboards for r
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purva-naikwadi-btech-mechatronics)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Purva1812)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:purvanaikawadi11@gmail.com)---![Profile Views](https://komarev.com/ghpvc/?username=Prajwal4581&color=blue&style=flat)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Purva1812)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:purvanaikawadi11@gmail.com)
 
+---
 
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Purva1812&theme=radical)
@@ -113,7 +113,8 @@ I turn raw data into actionable insights and create interactive dashboards for r
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Purva1812&theme=radical)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Purva1812&theme=react-dark)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Prajwal4581&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Purva1812&color=blue&style=flat)
 
 ---
