@@ -27,7 +27,7 @@ I turn raw data into actionable insights and create interactive dashboards for r
 
 #### 🔹 Diwali Dataset Analysis
 > Analyzed Diwali sales and spending patterns using Python and visualization tools.  
-![Diwali Icon](https://img.icons8.com/color/512/000000/diwali.png)
+![Diwali Icon](<a target="_blank" href="https://icons8.com/icon/YA8SO2cqlZfX/diwali">Diwali</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>)
 [View Project](https://github.com/Purva1812/Diwali-Dataset.git)
 
 #### 🔹 E-Commerce Sales Forecast
