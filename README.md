@@ -23,6 +23,36 @@ I turn raw data into actionable insights and create interactive dashboards for r
 ![Data Visualization](https://img.shields.io/badge/-Data_Visualization-FF6F00?style=for-the-badge)
 
 ---
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Data science & AI / ML**
+
+### 🛠️ Data Science Skills
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20API-FF4B00?style=for-the-badge&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📂 Projects
 
@@ -73,8 +103,8 @@ I turn raw data into actionable insights and create interactive dashboards for r
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purva-naikwadi-btech-mechatronics)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/your-kaggle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purva-naikwadi-btech-mechatronics)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Purva1812)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:purvanaikawadi11@gmail.com)---![Profile Views](https://komarev.com/ghpvc/?username=Prajwal4581&color=blue&style=flat)
 
 
 ### 🏆 GitHub Trophies
@@ -83,5 +113,7 @@ I turn raw data into actionable insights and create interactive dashboards for r
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Purva1812&theme=radical)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Prajwal4581&color=blue&style=flat)
 
 ---
