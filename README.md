@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Purva Naikwadi
 
-![Header](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+![Data Science GIF](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)
 
 ### 🚀 About Me
-I am a Data Science Engineer passionate about turning data into insights.  
-I work with Python, SQL, Machine Learning, Deep Learning, and Power BI to build solutions that solve real-world problems.  
+I am a Data Science Engineer skilled in Python, Data Analysis, Data Visualization, Power BI, SQL, Machine Learning, and Deep Learning.  
+I turn raw data into actionable insights and create interactive dashboards for real-world problems.
 
-- 🌱 I’m currently exploring Advanced Deep Learning & AI applications  
-- 💼 Interested in Data Analytics, Visualization, and Business Intelligence  
-- 🏆 Always learning new Python libraries and analytical techniques  
+- 🌱 Currently exploring Advanced ML & Deep Learning  
+- 💼 Passionate about Data Analytics, Visualization, and Business Intelligence  
+- 🏆 Always learning new Python libraries and analytics techniques  
 
 ---
 
@@ -16,7 +16,7 @@ I work with Python, SQL, Machine Learning, Deep Learning, and Power BI to build 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-ML-FF6F61?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F61?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-0A0A0A?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/-Data_Analysis-4CAF50?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/-Data_Visualization-FF6F00?style=for-the-badge)
@@ -25,21 +25,35 @@ I work with Python, SQL, Machine Learning, Deep Learning, and Power BI to build 
 
 ### 📂 Projects
 
-#### 🔹 Healthcare Analytics
-> Predict drug usage and analyze patient data using ML algorithms  
-[![GitHub Project](https://img.shields.io/badge/View-Project-blue)](https://github.com/your-github-username/Healthcare-Analytics)
+#### 🔹 Diwali Dataset Analysis
+> Analyzed Diwali sales and spending patterns using Python and visualization tools.  
+![Diwali Icon](https://img.icons8.com/color/48/000000/diwali.png)  
+[View Project](https://github.com/your-github-username/Diwali-Dataset-Analysis)
 
-#### 🔹 Sales & Revenue Dashboard
-> Interactive Power BI dashboard for sales insights  
-[![GitHub Project](https://img.shields.io/badge/View-Project-blue)](https://github.com/your-github-username/Sales-Dashboard)
+#### 🔹 E-Commerce Sales Forecast
+> Predicted future sales trends using Machine Learning models and time-series analysis.  
+![Forecast Icon](https://img.icons8.com/color/48/000000/forecast.png)  
+[View Project](https://github.com/your-github-username/E-Commerce-Sales-Forecast)
+
+#### 🔹 Amazon Sales Dashboard
+> Built an interactive Power BI dashboard to analyze Amazon sales data.  
+![Amazon Icon](https://img.icons8.com/color/48/000000/amazon.png)  
+[View Project](https://github.com/your-github-username/Amazon-Sales-Dashboard)
+
+#### 🔹 Blinkit Dashboard
+> Developed a dashboard to monitor Blinkit delivery and sales metrics.  
+![Delivery Icon](https://img.icons8.com/color/48/000000/delivery.png)  
+[View Project](https://github.com/your-github-username/Blinkit-Dashboard)
 
 #### 🔹 Titanic Survival Prediction
-> Predict survival using ML models and data visualization  
-[![GitHub Project](https://img.shields.io/badge/View-Project-blue)](https://github.com/your-github-username/Titanic-Survival-Prediction)
+> ML project to predict passenger survival using Python, EDA, and visualization.  
+![Titanic Icon](https://img.icons8.com/color/48/000000/titanic.png)  
+[View Project](https://github.com/your-github-username/Titanic-Survival-Prediction)
 
-#### 🔹 Stock Market Analysis
-> Analyze stock trends and build predictive models  
-[![GitHub Project](https://img.shields.io/badge/View-Project-blue)](https://github.com/your-github-username/Stock-Market-Analysis)
+#### 🔹 USA Housing Prediction
+> Built regression models to predict housing prices in the USA with Python & ML.  
+![House Icon](https://img.icons8.com/color/48/000000/real-estate.png)  
+[View Project](https://github.com/your-github-username/USA-Housing-Prediction)
 
 ---
 
@@ -51,9 +65,9 @@ I work with Python, SQL, Machine Learning, Deep Learning, and Power BI to build 
 ---
 
 ### ⚡ Fun Fact
-- 🌱 Love solving problems with data  
-- 🎨 Enjoy making interactive visualizations  
-- 🤖 Built ML & DL projects for real-world data  
+- 🌱 Love turning raw data into actionable insights  
+- 📊 Enjoy building interactive dashboards with Power BI and Python  
+- 🤖 Created ML & DL projects for real-world datasets  
 
 ![Data Science GIF](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)
 
@@ -62,12 +76,13 @@ I work with Python, SQL, Machine Learning, Deep Learning, and Power BI to build 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/your-kaggle)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 
----
 
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=false&margin-w=4)
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+
+---
