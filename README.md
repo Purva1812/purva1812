@@ -56,35 +56,35 @@ I turn raw data into actionable insights and create interactive dashboards for r
 
 #### 🔹 Car Evaluation Dataset Analysis
 > A machine learning project that predicts the quality of cars (e.g., good, acceptable, unacceptable) based on features like price, maintenance cost, safety, and capacity using classification algorithms.
-[View Project](https://github.com/Purva1812/Car-Evaluation.git)
+ [View Project](https://github.com/Purva1812/Car-Evaluation.git)
 
 #### 🔹 Healthcare Dataset Analysis
 > Healthcare Test Prediction is a machine learning-based system that analyzes patient data to predict disease outcomes or test results for early diagnosis and better clinical decision-making.
-[View Project](https://github.com/Purva1812/HealthcareTest.git)
+ [View Project](https://github.com/Purva1812/HealthcareTest.git)
 
 #### 🔹 E-Commerce Sales Forecast
 > Predicted future sales trends using Machine Learning models and time-series analysis.
-[View Project](https://github.com/Purva1812/Sales-Forcecast-System.git)
+ [View Project](https://github.com/Purva1812/Sales-Forcecast-System.git)
 
 #### 🔹 Amazon Sales Dashboard
 > Built an interactive Power BI dashboard to analyze Amazon sales data.
-![Amazon Icon](https://img.icons8.com/color/48/000000/amazon.png)
-[View Project](https://github.com/Purva1812/Amazon-Sales-Dashboard..git)
+ ![Amazon Icon](https://img.icons8.com/color/48/000000/amazon.png)
+ [View Project](https://github.com/Purva1812/Amazon-Sales-Dashboard..git)
 
 #### 🔹 Blinkit Dashboard
 > Developed a dashboard to monitor Blinkit delivery and sales metrics.  
-![Delivery Icon](https://img.icons8.com/color/48/000000/delivery.png)
-[View Project](https://github.com/Purva1812/Blinkit-Dashboard.git)
+ ![Delivery Icon](https://img.icons8.com/color/48/000000/delivery.png)
+ [View Project](https://github.com/Purva1812/Blinkit-Dashboard.git)
 
 #### 🔹 Titanic Survival Prediction
 > ML project to predict passenger survival using Python, EDA, and visualization.  
-![Titanic Icon](https://img.icons8.com/color/48/000000/titanic.png)
-[View Project](https://github.com/Purva1812/Titanic-Survival-Prediction.git)
+ ![Titanic Icon](https://img.icons8.com/color/48/000000/titanic.png)
+ [View Project](https://github.com/Purva1812/Titanic-Survival-Prediction.git)
 
 #### 🔹 USA Housing Prediction
 > Built regression models to predict housing prices in the USA with Python & ML.
-![House Icon](https://img.icons8.com/color/48/000000/real-estate.png)
-[View Project](https://github.com/Purva1812/USA-Housing.git)
+ ![House Icon](https://img.icons8.com/color/48/000000/real-estate.png)
+ [View Project](https://github.com/Purva1812/USA-Housing.git)
 
 ---
 
@@ -92,13 +92,7 @@ I turn raw data into actionable insights and create interactive dashboards for r
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Purva1812&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Purva1812&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Purva1812&layout=compact&theme=tokyonight)
-
-## 🐍 Contribution Graph
-
-![Snake animation](https://github.com/Purva1812/Purva1812/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -122,6 +116,7 @@ I turn raw data into actionable insights and create interactive dashboards for r
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Purva1812&theme=radical)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Purva1812&theme=react-dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Purva1812&color=blue&style=flat)
