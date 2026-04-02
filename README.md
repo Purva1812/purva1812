@@ -62,22 +62,9 @@ I turn raw data into actionable insights and create interactive dashboards for r
 ![VScode](https://img.shields.io/badge/VScode-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Colab](https://img.shields.io/badge/GoogleColab-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
 ### 📂 Projects
-
-#### 🔹 Car Evaluation Dataset Analysis
-> A machine learning project that predicts the quality of cars based on features like price, maintenance cost, safety, and capacity using classification algorithms.
-> 
- [View Project](https://github.com/Purva1812/Car-Evaluation.git)
-
-#### 🔹 Healthcare Dataset Analysis
-> Healthcare Test Prediction is a machine learning-based system that analyzes patient data to predict disease outcomes or test results for early diagnosis and better clinical decision-making.
-> 
- [View Project](https://github.com/Purva1812/HealthcareTest.git)
-
-#### 🔹 E-Commerce Sales Forecast
-> Predicted future sales trends using Machine Learning models and time-series analysis.
-> 
- [View Project](https://github.com/Purva1812/Sales-Forcecast-System.git)
 
 #### 🔹 Amazon Sales Dashboard
 > Built an interactive Power BI dashboard to analyze Amazon sales data.
@@ -106,6 +93,21 @@ I turn raw data into actionable insights and create interactive dashboards for r
  ![House Icon](https://img.icons8.com/color/48/000000/real-estate.png)
  
  [View Project](https://github.com/Purva1812/USA-Housing.git)
+
+ #### 🔹 Car Evaluation Dataset Analysis
+> A machine learning project that predicts the quality of cars based on features like price, maintenance cost, safety, and capacity using classification algorithms.
+> 
+ [View Project](https://github.com/Purva1812/Car-Evaluation.git)
+
+#### 🔹 Healthcare Dataset Analysis
+> Healthcare Test Prediction is a machine learning-based system that analyzes patient data to predict disease outcomes or test results for early diagnosis and better clinical decision-making.
+> 
+ [View Project](https://github.com/Purva1812/HealthcareTest.git)
+
+#### 🔹 E-Commerce Sales Forecast
+> Predicted future sales trends using Machine Learning models and time-series analysis.
+> 
+ [View Project](https://github.com/Purva1812/Sales-Forcecast-System.git)
 
 ---
 
