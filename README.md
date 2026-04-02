@@ -117,12 +117,6 @@ I turn raw data into actionable insights and create interactive dashboards for r
   <img src="https://streak-stats.demolab.com/?user=Purva1812&theme=tokyonight" height="150"/>
 </p>
 
-## 💻 Most Used Languages
-
-<p align="center">
-  ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge)
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Purva1812&layout=compact&theme=tokyonight&cache_seconds=86400" height="150"/>
-</p>
 ---
 
 ### ⚡ Fun Fact
