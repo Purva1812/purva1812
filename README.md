@@ -55,15 +55,18 @@ I turn raw data into actionable insights and create interactive dashboards for r
 ### 📂 Projects
 
 #### 🔹 Car Evaluation Dataset Analysis
-> A machine learning project that predicts the quality of cars (e.g., good, acceptable, unacceptable) based on features like price, maintenance cost, safety, and capacity using classification algorithms.
+> A machine learning project that predicts the quality of cars based on features like price, maintenance cost, safety, and capacity using classification algorithms.
+> 
  [View Project](https://github.com/Purva1812/Car-Evaluation.git)
 
 #### 🔹 Healthcare Dataset Analysis
 > Healthcare Test Prediction is a machine learning-based system that analyzes patient data to predict disease outcomes or test results for early diagnosis and better clinical decision-making.
+> 
  [View Project](https://github.com/Purva1812/HealthcareTest.git)
 
 #### 🔹 E-Commerce Sales Forecast
 > Predicted future sales trends using Machine Learning models and time-series analysis.
+> 
  [View Project](https://github.com/Purva1812/Sales-Forcecast-System.git)
 
 #### 🔹 Amazon Sales Dashboard
@@ -74,17 +77,22 @@ I turn raw data into actionable insights and create interactive dashboards for r
   [View Project](https://github.com/Purva1812/Amazon-Sales-Dashboard..git)
 
 #### 🔹 Blinkit Dashboard
-> Developed a dashboard to monitor Blinkit delivery and sales metrics.  
+> Developed a dashboard to monitor Blinkit delivery and sales metrics.
+>  
  ![Delivery Icon](https://img.icons8.com/color/48/000000/delivery.png)
+ 
  [View Project](https://github.com/Purva1812/Blinkit-Dashboard.git)
 
 #### 🔹 Titanic Survival Prediction
-> ML project to predict passenger survival using Python, EDA, and visualization.  
+> ML project to predict passenger survival using Python, EDA, and visualization.
+> 
  ![Titanic Icon](https://img.icons8.com/color/48/000000/titanic.png)
+ 
  [View Project](https://github.com/Purva1812/Titanic-Survival-Prediction.git)
 
 #### 🔹 USA Housing Prediction
 > Built regression models to predict housing prices in the USA with Python & ML.
+> 
  ![House Icon](https://img.icons8.com/color/48/000000/real-estate.png)
  [View Project](https://github.com/Purva1812/USA-Housing.git)
 
