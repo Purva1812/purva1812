@@ -56,11 +56,13 @@ I turn raw data into actionable insights and create interactive dashboards for r
 
 #### 🔹 Car Evaluation Dataset Analysis
 > A machine learning project that predicts the quality of cars (e.g., good, acceptable, unacceptable) based on features like price, maintenance cost, safety, and capacity using classification algorithms.
+
 [View Project](https://github.com/Purva1812/Car-Evaluation.git)
 
 #### 🔹 Healthcare Dataset Analysis
-> A machine learning project that predicts the quality of cars (e.g., good, acceptable, unacceptable) based on features like price, maintenance cost, safety, and capacity using classification algorithms.
-[View Project](https://github.com/Purva1812/Car=Evaluation.git)
+> Healthcare Test Prediction is a machine learning-based system that analyzes patient data to predict disease outcomes or test results for early diagnosis and better clinical decision-making.
+
+[View Project](https://github.com/Purva1812/healthcare test.git)
 
 #### 🔹 E-Commerce Sales Forecast
 > Predicted future sales trends using Machine Learning models and time-series analysis.  
