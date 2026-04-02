@@ -17,7 +17,7 @@ I turn raw data into actionable insights and create interactive dashboards for r
 ### 🛠️ Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-0A0A0A?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/-Excel-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F61?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-0A0A0A?style=for-the-badge)
