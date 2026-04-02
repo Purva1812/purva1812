@@ -117,8 +117,12 @@ I turn raw data into actionable insights and create interactive dashboards for r
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Purva1812&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://streak-stats.demolab.com/?user=Purva1812&theme=tokyonight" height="150"/>
 </p>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Purva1812&layout=compact&theme=tokyonight)
 
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purva1812&layout=compact&theme=radical" height="150"/>
+</p>
 ---
 
 ### ⚡ Fun Fact
@@ -140,7 +144,6 @@ I turn raw data into actionable insights and create interactive dashboards for r
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Purva1812&theme=radical)
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Purva1812&theme=radical)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Purva1812&theme=react-dark)
 
