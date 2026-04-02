@@ -54,9 +54,13 @@ I turn raw data into actionable insights and create interactive dashboards for r
 
 ### 📂 Projects
 
-#### 🔹 Diwali Dataset Analysis
-> Analyzed Diwali sales and spending patterns using Python and visualization tools.  
-[View Project](https://github.com/Purva1812/Diwali-Dataset.git)
+#### 🔹 Car Evaluation Dataset Analysis
+> A machine learning project that predicts the quality of cars (e.g., good, acceptable, unacceptable) based on features like price, maintenance cost, safety, and capacity using classification algorithms.
+[View Project](https://github.com/Purva1812/Car-Evaluation.git)
+
+#### 🔹 Healthcare Dataset Analysis
+> A machine learning project that predicts the quality of cars (e.g., good, acceptable, unacceptable) based on features like price, maintenance cost, safety, and capacity using classification algorithms.
+[View Project](https://github.com/Purva1812/Car=Evaluation.git)
 
 #### 🔹 E-Commerce Sales Forecast
 > Predicted future sales trends using Machine Learning models and time-series analysis.  
