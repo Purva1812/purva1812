@@ -4,7 +4,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
 
-![Header](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
 ### 🚀 About Me
 I am a Data Science Engineer skilled in Python, Data Analysis, Data Visualization, Power BI, SQL, Machine Learning, and Deep Learning.  
 I turn raw data into actionable insights and create interactive dashboards for real-world problems.
@@ -33,22 +32,29 @@ I turn raw data into actionable insights and create interactive dashboards for r
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Database**
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Data science & AI / ML**
 
-### 🛠️ Data Science Skills
+## 🧠 Data Science Toolbox
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 📊 Data Analysis
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/-NumPy-purple?style=for-the-badge)
+
+### 📈 Visualization
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-orange?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/-Seaborn-blue?style=for-the-badge)
+![PowerBI](https://img.shields.io/badge/-PowerBI-yellow?style=for-the-badge)
+
+### 🤖 Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-orange?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-red?style=for-the-badge)
+![Keras](https://img.shields.io/badge/-Keras-darkred?style=for-the-badge)
+
+### 🗄️ Database
+![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-darkblue?style=for-the-badge)
 
 **Tools**
 
