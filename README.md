@@ -68,8 +68,10 @@ I turn raw data into actionable insights and create interactive dashboards for r
 
 #### 🔹 Amazon Sales Dashboard
 > Built an interactive Power BI dashboard to analyze Amazon sales data.
- ![Amazon Icon](https://img.icons8.com/color/48/000000/amazon.png)
- [View Project](https://github.com/Purva1812/Amazon-Sales-Dashboard..git)
+> 
+  ![Amazon Icon](https://img.icons8.com/color/48/000000/amazon.png)
+ 
+  [View Project](https://github.com/Purva1812/Amazon-Sales-Dashboard..git)
 
 #### 🔹 Blinkit Dashboard
 > Developed a dashboard to monitor Blinkit delivery and sales metrics.  
