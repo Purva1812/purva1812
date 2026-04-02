@@ -124,6 +124,8 @@ I turn raw data into actionable insights and create interactive dashboards for r
 - 📊 Enjoy building interactive dashboards with Power BI and Python  
 - 🤖 Created ML & DL projects for real-world datasets  
 
+![Data Science GIF](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)
+
 
 ---
 
@@ -142,6 +144,5 @@ I turn raw data into actionable insights and create interactive dashboards for r
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Purva1812&color=blue&style=flat)
 
-![Data Science GIF](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)
 
 ---
