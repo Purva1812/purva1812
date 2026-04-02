@@ -114,14 +114,13 @@ I turn raw data into actionable insights and create interactive dashboards for r
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Purva1812&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://streak-stats.demolab.com/?user=Purva1812&theme=tokyonight" height="150"/>
 </p>
 
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purva1812&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Purva1812&layout=compact&theme=tokyonight&cache_seconds=86400" height="150"/>
 </p>
 ---
 
