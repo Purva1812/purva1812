@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Purva Naikwadi
 
-![Header](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+![Header](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### 🚀 About Me
 I am a Data Science Engineer skilled in Python, Data Analysis, Data Visualization, Power BI, SQL, Machine Learning, and Deep Learning.  
@@ -94,6 +94,7 @@ I turn raw data into actionable insights and create interactive dashboards for r
 > Built regression models to predict housing prices in the USA with Python & ML.
 > 
  ![House Icon](https://img.icons8.com/color/48/000000/real-estate.png)
+ 
  [View Project](https://github.com/Purva1812/USA-Housing.git)
 
 ---
