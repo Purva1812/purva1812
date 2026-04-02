@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
 
-![Header](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+![Header](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
 ### 🚀 About Me
 I am a Data Science Engineer skilled in Python, Data Analysis, Data Visualization, Power BI, SQL, Machine Learning, and Deep Learning.  
 I turn raw data into actionable insights and create interactive dashboards for real-world problems.
