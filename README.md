@@ -133,6 +133,14 @@ I turn raw data into actionable insights and create interactive dashboards for r
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purva-naikwadi-btech-mechatronics)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Purva1812)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:purvanaikawadi11@gmail.com)
 
+<p align="center">
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
 ---
 
 ### 🏆 GitHub Trophies
