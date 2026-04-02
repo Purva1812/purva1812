@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
-![Header](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
+![Header](https://media.giphy.com/media/1kI8UsCjEwfiXc3TYy/giphy.gif)
 ### 🚀 About Me
 I am a Data Science Engineer skilled in Python, Data Analysis, Data Visualization, Power BI, SQL, Machine Learning, and Deep Learning.  
 I turn raw data into actionable insights and create interactive dashboards for real-world problems.
