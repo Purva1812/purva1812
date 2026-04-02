@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Purva Naikwadi</h1>
 <h3 align="center">🚀 Data Science Enthusiast | 🤖 Mechatronics Engineer | 📊 AI & ML Learner</h3>
 
@@ -9,14 +5,20 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Enthusiast;Machine+Learning+Explorer;Power+BI+Developer;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+</p>
+
 ### 🚀 About Me
-I am a Data Science Engineer skilled in Python, Data Analysis, Data Visualization, Power BI, SQL, Machine Learning, and Deep Learning.  
-I turn raw data into actionable insights and create interactive dashboards for real-world problems.
 
+- 🎓 Mechatronics Engineer with minor in Computer Engineering  
+- 🤖 Passionate about Data Science, AI & Machine Learning  
+- 📊 Skilled in Data Analysis, Visualization & ML Models  
+- 🚀 Currently building real-world Data Science projects  
+- 🌱 Always learning new technologies  
 - 🌱 Currently exploring Advanced ML & Deep Learning  
-- 💼 Passionate about Data Analytics, Visualization, and Business Intelligence  
-- 🏆 Always learning new Python libraries and analytics techniques  
-
+- 💼 Passionate about Data Analytics, Visualization, and Business Intelligence    
+- 📊 I turn raw data into actionable insights and create interactive dashboards for real-world problems.
 ---
 
 ### 🛠️ Skills
